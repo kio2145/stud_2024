@@ -2,16 +2,7 @@
 
 //супер важливий код
 int main (){
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
-    cout<<"hello";
+    cout<<"func2_br";
     int i=0;
     return 0;
 }
