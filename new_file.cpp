@@ -3,63 +3,6 @@
 //супер важливий код
 int main (){
     cout<<"hello";
-    return 0;
-}
-int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
-    return 0;
-}int main (){
-    cout<<"hello";
+    int i=0;
     return 0;
 }
