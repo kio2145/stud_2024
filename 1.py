@@ -1,7 +1,3 @@
-#include <iostream>
-// тест системи контролю версій
-// коментар 3
-cout<<"Крута нова функція!";
 import re
 import tabulate
 
