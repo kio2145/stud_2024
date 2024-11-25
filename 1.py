@@ -29,9 +29,4 @@ class Parser:
         self.Error=''
     def set_inpt_str(self,inpt_str):
         self.inpt_str=inpt_str
-    def get_print_step(self,last_step, curr_len):
-        if last_step==0:
-            return 0
-        else:
-            return (last_step+1)-curr_len
-   
+
