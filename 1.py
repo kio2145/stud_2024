@@ -20,13 +20,8 @@ class Lexer:
         return inpt_str=="\'" or inpt_str=="\""
     def is_val_name(self,inpt_str):
         return re.fullmatch(self.ids,inpt_str) is not None and not (self.is_tag(inpt_str) or self.is_attribute(inpt_str))
-class Parser:
-    def __init__(self):
-        self.lx=Lexer()
-        self.lex_arrey=[]
-        self.separete=[' ', '\"', '\'','<','>','=']
-        self.inpt_str=''
-        self.Error=''
-    def set_inpt_str(self,inpt_str):
-        self.inpt_str=inpt_str
+    
+    def print_msg(msg):
+        print("error")
+        return msg
 
