@@ -6,6 +6,7 @@ class Lexer:
         self.tags=['body','p','img','a', 'h1','h2','table','tr','td']
         self.tags_1=['body','p','img','a', 'h1','h2','table','tr','td']
         self.attribute=['align','width','img','border', 'src','alt']
+        self.attribute_1=['align','width','img','border', 'src','alt']
         self.ids=r'[0-9A-Za-z_]+'
     def is_equel_symb(self,inpt_str):
         return inpt_str=='='
