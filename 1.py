@@ -21,7 +21,4 @@ class Lexer:
     def is_val_name(self,inpt_str):
         return re.fullmatch(self.ids,inpt_str) is not None and not (self.is_tag(inpt_str) or self.is_attribute(inpt_str))
     
-    def print_msg(msg):
-        print("error")
-        return msg
 
